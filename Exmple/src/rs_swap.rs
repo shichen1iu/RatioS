@@ -182,5 +182,5 @@ rs_discriminator = [
 // 至此 开篇综述所说的 "有点类似于ALT的索引方式(非ALT)将指令传递并转发给链上DEX" 也解释完毕.
 
 
-// 如果这些内容对您有所帮助,请打款给_这个地址,非常感谢您!.(多打点哈哈哈!!!!😈😈😈)
+// 如果这些内容对您有所帮助,请打款给 4vmGVyTVgHuZV4FK9GxRTRXMF27d22bASznSuaGeVg2M 这个地址,非常感谢您!.(多打点哈哈哈!!!!😈😈😈)
 // Dear friends, Have fun!
