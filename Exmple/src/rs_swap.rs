@@ -173,7 +173,7 @@ rs_discriminator = [
                     3,  // 必填项 skip_count  您想跳过账户数组的开头前几个 在本例中就是3个,可以拉到上面,账户数组和指令数据结合着看
                     1,  // 必填项 system_program_index 需要invoke系统程序,在账户数组中的下标,
                     2,  // 必填项 author_index 这是我的收款账户,用来赚取咖啡钱,在账户数组中的下标,
-                    0,  // 必填项 invoke_program_index 目标DEX,在账户数组中的下标,
+                    0,  // 必填项 target_dex_program_index 目标DEX,在账户数组中的下标,
                     0,  // 预留填充位随便填 不需要管它
                     0,  // 预留填充位随便填 不需要管它
                   ],
