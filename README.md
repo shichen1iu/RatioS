@@ -44,7 +44,7 @@
     "DEXYosS6oEGvk8uCDayvwEZz4qEyDJRf9nFgYCaqPMTm" 	"1DEX"  💫
     "CURVGoZn8zycx6FXwwevgBTB2gVvdbGTEpvMJDbgs2t4" 	"Aldrin V2"  💫
 
-    请让我当着向导带着您走,这样就不会迷路.这不是传统的Git项目，更像是一份教程
+    请让我当向导带着您走,这样就不会迷路.这不是传统的Git项目，更像是一份教程
         
     有经验的开发者请转至Exmple文件夹(请先阅读Exmple夹内README.md)
 
@@ -56,8 +56,7 @@
     感谢@Michael哥及BuffChain社区
 
 ## 📞 联系
-    若有意加入我们小组或任何其他疑问,请致邮箱👇
-                                  null999999999@proton.me 
+    若有意加入我们小组或任何其他疑问,请致邮箱 👉 null999999999@proton.me 
     
 
 ## 🎂 赞助
