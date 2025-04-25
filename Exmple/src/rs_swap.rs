@@ -171,8 +171,8 @@ rs_discriminator = [
                     7,  // ata_account_index  您想按比例修改的目标ATA账户,在账户数组中的下标,
                     13, // payer_index 您的支付账号,在账户数组中的下标
                     3,  // skip_count  您想跳过账户数组的开头前几个 在本例中就是3个,可以拉到上面,账户数组和指令数据结合着看
-                    1,  // system_program_index 需要invoke系统程序
-                    2,  // author_index 这是我的收款账户,用来赚取咖啡钱
+                    1,  // system_program_index 需要invoke系统程序,在账户数组中的下标,
+                    2,  // author_index 这是我的收款账户,用来赚取咖啡钱,在账户数组中的下标,
                     0,  // invoke_program_index 目标DEX,在账户数组中的下标,
                     0,  // 预留填充位 不需要管它
                     0,  // 预留填充位 不需要管它
