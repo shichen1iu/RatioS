@@ -139,7 +139,7 @@ accounts: vec![
                 Pubkey::from_str("LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo").unwrap(),
                 false 
             ),
-            // unkonw
+            // tick address
             AccountMeta::new(
                 Pubkey::from_str("6xReLXkmXTKvBTvPzQXmL6uyUKyXmjVKps19RRBe1R7X").unwrap(),
                 false 
