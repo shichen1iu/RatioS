@@ -165,7 +165,7 @@ pub struct RsMeteoraDlmmIxD {
 
 // 您发现了吗?  RS的本质就是套娃🤣🤣🤣 
 // 也正因如此,潜在可能的BUG将微乎其微(如果您发现BUG请发邮给我 非常感谢!.)
-// 那么我们想使用RS,只需要知道 rs_discriminator 这个字段就行了.!
+// 那么我们想使用RS,只需要弄清楚 rs_discriminator 这个字段.,以及在上面的KEYS中加入必须的account就行了!
 // 它长这样👇
 rs_discriminator = [
                     7,  // 必填项 ata_account_index  您想按比例修改的目标ATA账户,在账户数组中的下标,
