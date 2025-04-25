@@ -56,7 +56,7 @@
     感谢@Michael哥及BuffChain社区
 
 ## 📞 联系
-    null999999999@proton.me 
+    邮箱: null999999999@proton.me 
     或者来BuffCahin(😈)
 
 ## 🎂 赞助
