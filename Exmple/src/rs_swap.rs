@@ -156,7 +156,7 @@ pub struct MeteoraDlmmIxD {
 }
 
 // 但是当我们想通过RS使用比例swap功能时,你需要传递的结构体长这样
-pub struct RsMeteoraDlmmInstructionData {
+pub struct RsMeteoraDlmmIxD {
   pub rs_discriminator:[u8;8],
   pub discriminator: [u8; 8],
   pub amount_in: u64,
