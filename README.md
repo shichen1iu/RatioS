@@ -56,8 +56,9 @@
     感谢@Michael哥及BuffChain社区
 
 ## 📞 联系
-    邮箱: null999999999@proton.me 
-    或者来BuffCahin(😈)
+    若有意加入我们小组或任何其他疑问,请致邮箱👇
+                                  null999999999@proton.me 
+    
 
 ## 🎂 赞助
     SOLANA 👉 4vmGVyTVgHuZV4FK9GxRTRXMF27d22bASznSuaGeVg2M  
