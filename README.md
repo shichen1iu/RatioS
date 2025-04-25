@@ -57,7 +57,7 @@
 
 ## 📞 联系
     null999999999@proton.me 
-    或者来BuuffCahin(😈)
+    或者来BuffCahin(😈)
 
 ## 🎂 赞助
     SOLANA 👉 4vmGVyTVgHuZV4FK9GxRTRXMF27d22bASznSuaGeVg2M  
