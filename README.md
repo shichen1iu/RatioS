@@ -18,9 +18,9 @@
     
     如果您在搭建城堡时常常觉得非常的疲倦,那么最理智的方式则是寻找同路人,携伴同行.
 
-    每个人负责完成城堡中算法的一部分,将各自的那一部分代码编译为动态链接库,或者是直接onchain相互间调用,（总会有一种适当的方式.）
+    每个人负责完成城堡中算法的一部分,将各自的那一部分代码编译为动态链接库,（或其他适当的方式.）
     
-    库内定义过期时间等方式保护各自的权益,钱包使用多签钱包,
+    库内定义过期时间（或其他适当的方式.）保护各自的权益,钱包使用多签钱包,
     ( 例如 👉 -> 📦 gas fee wallet send tx  -> 🏛 flash loan  -> 🎰 DEX RS_SWAP -> 💰 multisig wallet)
 
     ✅✅ SOLANA_RS_PROGRAM_ID : RSoojvmJQP1NRci479HQHKa4wF6TJKZsb2SZC6tKXFn (dev和main同一个)✅✅
